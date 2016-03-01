@@ -1,4 +1,17 @@
 # my-blog
+
+### description
+> this blog rules  
+> you know it does
+
+### how to run
+```
+http-server -p 8888
+```
+this will show at: http://localhost:8888
+
+
+
 ## I'm an h2
 ### h3 over here
 #### you KNOW this is an h4
@@ -29,6 +42,10 @@ var cat = meow
 > block quotes
 > yesssssss
 
-[text for link, click here](http://
+[text for link, click here](http://www.midnightthunder.net)  
 
-www.midnightthunder.net)
+![dog pic](https://raw.githubusercontent.com/ryan-b-writin/markdownPractice/master/screenshots/122163343-conditioning-dog-loud-noises-632x475.jpg)  
+*I pushed this picture to github and then linked to it from the repo!*
+
+###contributors:
+[-Ryan B](https://github.com/ryan-b-writin)
