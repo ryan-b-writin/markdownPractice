@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-blog
 
 ### description
@@ -10,6 +11,9 @@ http-server -p 8888
 ```
 this will show at: http://localhost:8888
 
+=======
+# Markdown practice here follows:
+>>>>>>> 5958d6b4031a9671908e4ed685661bf570d4bdd4
 
 
 ## I'm an h2
