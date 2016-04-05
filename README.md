@@ -1,3 +1,5 @@
+#Nevermind this repo. It contains class notes on Markdown, and no actual code.
+
 <<<<<<< HEAD
 # my-blog
 
